@@ -1,0 +1,11 @@
+waypoint:之前的死亡地点:D:522:10:298:0:true:0:gui.xaero_default:false:0
+waypoint:之前的死亡地点:D:566:10:304:0:true:0:gui.xaero_default:false:0
+waypoint:之前的死亡地点:D:564:10:301:0:true:0:gui.xaero_default:false:0
+waypoint:之前的死亡地点:D:583:30:300:0:true:0:gui.xaero_default:false:0
+waypoint:之前的死亡地点:D:770:72:383:0:true:0:gui.xaero_default:false:0
+waypoint:之前的死亡地点:D:768:76:380:0:true:0:gui.xaero_default:false:0
+waypoint:最后一次死亡地点:D:771:72:382:0:true:0:gui.xaero_default:false:0
+waypoint:之前的死亡地点:D:773:76:381:0:true:0:gui.xaero_default:false:0
+waypoint:之前的死亡地点:D:494:10:305:0:true:0:gui.xaero_default:false:0
+waypoint:最后一次死亡地点:D:838:17:761:0:true:0:gui.xaero_default:false:0
+waypoint:之前的死亡地点:D:840:10:759:0:true:0:gui.xaero_default:false:0

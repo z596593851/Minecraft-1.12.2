@@ -1,0 +1,95 @@
+[2020-05-20 14:13:32] [pool-4-thread-1 INFO] CustomSkinLoader 14.11-SNAPSHOT-89
+[2020-05-20 14:13:32] [pool-4-thread-1 INFO] DataDir: /Users/apple/game/Minecraft 1.12.2/.minecraft/CustomSkinLoader
+[2020-05-20 14:13:32] [pool-4-thread-1 INFO] Minecraft: 1.12.2(1.12.2)
+[2020-05-20 14:13:32] [pool-4-thread-1 INFO] Config File: /Users/apple/game/Minecraft 1.12.2/.minecraft/CustomSkinLoader/CustomSkinLoader.json
+[2020-05-20 14:13:32] [pool-4-thread-1 INFO] Try to load config.
+[2020-05-20 14:13:32] [pool-4-thread-1 INFO] Successfully load config.
+[2020-05-20 14:13:32] [pool-4-thread-1 INFO] version : 14.11
+[2020-05-20 14:13:32] [pool-4-thread-1 INFO] enableDynamicSkull : true
+[2020-05-20 14:13:32] [pool-4-thread-1 INFO] enableTransparentSkin : true
+[2020-05-20 14:13:32] [pool-4-thread-1 INFO] ignoreHttpsCertificate : false
+[2020-05-20 14:13:32] [pool-4-thread-1 INFO] forceLoadAllTextures : false
+[2020-05-20 14:13:32] [pool-4-thread-1 INFO] enableCape : true
+[2020-05-20 14:13:32] [pool-4-thread-1 INFO] cacheExpiry : 10
+[2020-05-20 14:13:32] [pool-4-thread-1 INFO] enableUpdateSkull : false
+[2020-05-20 14:13:32] [pool-4-thread-1 INFO] enableLocalProfileCache : false
+[2020-05-20 14:13:32] [pool-4-thread-1 INFO] enableCacheAutoClean : false
+[2020-05-20 14:13:32] [pool-4-thread-1 INFO] loadList : 5
+[2020-05-20 14:13:32] [阿拉拉拉君 INFO] Loading 阿拉拉拉君's profile.
+[2020-05-20 14:13:32] [阿拉拉拉君 INFO] 1/5 Try to load profile from 'Mojang'.
+[2020-05-20 14:13:32] [阿拉拉拉君 DEBUG] Try to request 'https://api.mojang.com/users/profiles/minecraft/阿拉拉拉君'.
+[2020-05-20 14:13:32] [阿拉拉拉君 DEBUG] Cache file found (Length: 0 , Path: '/Users/apple/game/Minecraft 1.12.2/.minecraft/CustomSkinLoader/caches/15f344692de538683cf36ce100d04b188b9c390c' , Expire: 0')
+[2020-05-20 14:13:32] [阿拉拉拉君 INFO] Try to load from cache '/Users/apple/game/Minecraft 1.12.2/.minecraft/CustomSkinLoader/caches/15f344692de538683cf36ce100d04b188b9c390c'.
+[2020-05-20 14:13:32] [阿拉拉拉君 DEBUG] Successfully load from cache
+[2020-05-20 14:13:32] [阿拉拉拉君 DEBUG] Content: 
+[2020-05-20 14:13:32] [阿拉拉拉君 INFO] Profile not found.(阿拉拉拉君's profile not found.)
+[2020-05-20 14:13:32] [阿拉拉拉君 INFO] 2/5 Try to load profile from 'BlessingSkin'.
+[2020-05-20 14:13:32] [阿拉拉拉君 DEBUG] Try to request 'https://skin.prinzeugen.net/csl/阿拉拉拉君.json'.
+[2020-05-20 14:13:32] [阿拉拉拉君 DEBUG] Encoded URL: https://skin.prinzeugen.net/csl/%E9%98%BF%E6%8B%89%E6%8B%89%E6%8B%89%E5%90%9B.json
+[2020-05-20 14:13:33] [阿拉拉拉君 DEBUG] Successfully request (Response Code: 304 , Content Length: -1)
+[2020-05-20 14:13:33] [阿拉拉拉君 DEBUG] Cache file found (Length: 185 , Path: '/Users/apple/game/Minecraft 1.12.2/.minecraft/CustomSkinLoader/caches/f0137cab7593d2520e7beec41623976b0b410d30' , Expire: 0')
+[2020-05-20 14:13:33] [阿拉拉拉君 INFO] Try to load from cache '/Users/apple/game/Minecraft 1.12.2/.minecraft/CustomSkinLoader/caches/f0137cab7593d2520e7beec41623976b0b410d30'.
+[2020-05-20 14:13:33] [阿拉拉拉君 DEBUG] Successfully load from cache
+[2020-05-20 14:13:33] [阿拉拉拉君 DEBUG] Content: {
+    "username": "阿拉拉拉君",
+    "skins": {
+        "default": "150357b386259ecf3d2f5b52e13088c9e2e52dbcbe35b0ae78e1dac79e440ff3",
+        "slim": null
+    },
+    "cape": null
+}
+[2020-05-20 14:13:33] [阿拉拉拉君 INFO] 阿拉拉拉君's profile loaded.
+[2020-05-20 14:13:33] [阿拉拉拉君 INFO] (SkinUrl: https://skin.prinzeugen.net/csl/textures/150357b386259ecf3d2f5b52e13088c9e2e52dbcbe35b0ae78e1dac79e440ff3 , Model: default , CapeUrl: null  , Expiry: 1589955223)
+[2020-05-20 14:13:33] [Client thread DEBUG] Loading type:SKIN
+[2020-05-20 16:01:05] [阿拉拉拉君 INFO] Loading 阿拉拉拉君's profile.
+[2020-05-20 16:01:05] [阿拉拉拉君 INFO] 1/5 Try to load profile from 'Mojang'.
+[2020-05-20 16:01:05] [阿拉拉拉君 DEBUG] Try to request 'https://api.mojang.com/users/profiles/minecraft/阿拉拉拉君'.
+[2020-05-20 16:01:05] [阿拉拉拉君 DEBUG] Cache file found (Length: 0 , Path: '/Users/apple/game/Minecraft 1.12.2/.minecraft/CustomSkinLoader/caches/15f344692de538683cf36ce100d04b188b9c390c' , Expire: 0')
+[2020-05-20 16:01:05] [阿拉拉拉君 INFO] Try to load from cache '/Users/apple/game/Minecraft 1.12.2/.minecraft/CustomSkinLoader/caches/15f344692de538683cf36ce100d04b188b9c390c'.
+[2020-05-20 16:01:05] [阿拉拉拉君 DEBUG] Successfully load from cache
+[2020-05-20 16:01:05] [阿拉拉拉君 DEBUG] Content: 
+[2020-05-20 16:01:05] [阿拉拉拉君 INFO] Profile not found.(阿拉拉拉君's profile not found.)
+[2020-05-20 16:01:05] [阿拉拉拉君 INFO] 2/5 Try to load profile from 'BlessingSkin'.
+[2020-05-20 16:01:05] [阿拉拉拉君 DEBUG] Try to request 'https://skin.prinzeugen.net/csl/阿拉拉拉君.json'.
+[2020-05-20 16:01:05] [阿拉拉拉君 DEBUG] Encoded URL: https://skin.prinzeugen.net/csl/%E9%98%BF%E6%8B%89%E6%8B%89%E6%8B%89%E5%90%9B.json
+[2020-05-20 16:01:07] [阿拉拉拉君 DEBUG] Successfully request (Response Code: 304 , Content Length: -1)
+[2020-05-20 16:01:07] [阿拉拉拉君 DEBUG] Cache file found (Length: 185 , Path: '/Users/apple/game/Minecraft 1.12.2/.minecraft/CustomSkinLoader/caches/f0137cab7593d2520e7beec41623976b0b410d30' , Expire: 0')
+[2020-05-20 16:01:07] [阿拉拉拉君 INFO] Try to load from cache '/Users/apple/game/Minecraft 1.12.2/.minecraft/CustomSkinLoader/caches/f0137cab7593d2520e7beec41623976b0b410d30'.
+[2020-05-20 16:01:07] [阿拉拉拉君 DEBUG] Successfully load from cache
+[2020-05-20 16:01:07] [阿拉拉拉君 DEBUG] Content: {
+    "username": "阿拉拉拉君",
+    "skins": {
+        "default": "150357b386259ecf3d2f5b52e13088c9e2e52dbcbe35b0ae78e1dac79e440ff3",
+        "slim": null
+    },
+    "cape": null
+}
+[2020-05-20 16:01:07] [阿拉拉拉君 INFO] 阿拉拉拉君's profile loaded.
+[2020-05-20 16:01:07] [阿拉拉拉君 INFO] (SkinUrl: https://skin.prinzeugen.net/csl/textures/150357b386259ecf3d2f5b52e13088c9e2e52dbcbe35b0ae78e1dac79e440ff3 , Model: default , CapeUrl: null  , Expiry: 1589961678)
+[2020-05-20 16:01:07] [Client thread DEBUG] Loading type:SKIN
+[2020-05-20 16:14:47] [阿拉拉拉君 INFO] Loading 阿拉拉拉君's profile.
+[2020-05-20 16:14:47] [阿拉拉拉君 INFO] 1/5 Try to load profile from 'Mojang'.
+[2020-05-20 16:14:47] [阿拉拉拉君 DEBUG] Try to request 'https://api.mojang.com/users/profiles/minecraft/阿拉拉拉君'.
+[2020-05-20 16:14:47] [阿拉拉拉君 DEBUG] Cache file found (Length: 0 , Path: '/Users/apple/game/Minecraft 1.12.2/.minecraft/CustomSkinLoader/caches/15f344692de538683cf36ce100d04b188b9c390c' , Expire: 0')
+[2020-05-20 16:14:47] [阿拉拉拉君 INFO] Try to load from cache '/Users/apple/game/Minecraft 1.12.2/.minecraft/CustomSkinLoader/caches/15f344692de538683cf36ce100d04b188b9c390c'.
+[2020-05-20 16:14:47] [阿拉拉拉君 DEBUG] Successfully load from cache
+[2020-05-20 16:14:47] [阿拉拉拉君 DEBUG] Content: 
+[2020-05-20 16:14:47] [阿拉拉拉君 INFO] Profile not found.(阿拉拉拉君's profile not found.)
+[2020-05-20 16:14:47] [阿拉拉拉君 INFO] 2/5 Try to load profile from 'BlessingSkin'.
+[2020-05-20 16:14:47] [阿拉拉拉君 DEBUG] Try to request 'https://skin.prinzeugen.net/csl/阿拉拉拉君.json'.
+[2020-05-20 16:14:47] [阿拉拉拉君 DEBUG] Encoded URL: https://skin.prinzeugen.net/csl/%E9%98%BF%E6%8B%89%E6%8B%89%E6%8B%89%E5%90%9B.json
+[2020-05-20 16:14:48] [阿拉拉拉君 DEBUG] Successfully request (Response Code: 304 , Content Length: -1)
+[2020-05-20 16:14:48] [阿拉拉拉君 DEBUG] Cache file found (Length: 185 , Path: '/Users/apple/game/Minecraft 1.12.2/.minecraft/CustomSkinLoader/caches/f0137cab7593d2520e7beec41623976b0b410d30' , Expire: 0')
+[2020-05-20 16:14:48] [阿拉拉拉君 INFO] Try to load from cache '/Users/apple/game/Minecraft 1.12.2/.minecraft/CustomSkinLoader/caches/f0137cab7593d2520e7beec41623976b0b410d30'.
+[2020-05-20 16:14:48] [阿拉拉拉君 DEBUG] Successfully load from cache
+[2020-05-20 16:14:48] [阿拉拉拉君 DEBUG] Content: {
+    "username": "阿拉拉拉君",
+    "skins": {
+        "default": "150357b386259ecf3d2f5b52e13088c9e2e52dbcbe35b0ae78e1dac79e440ff3",
+        "slim": null
+    },
+    "cape": null
+}
+[2020-05-20 16:14:48] [阿拉拉拉君 INFO] 阿拉拉拉君's profile loaded.
+[2020-05-20 16:14:48] [阿拉拉拉君 INFO] (SkinUrl: https://skin.prinzeugen.net/csl/textures/150357b386259ecf3d2f5b52e13088c9e2e52dbcbe35b0ae78e1dac79e440ff3 , Model: default , CapeUrl: null  , Expiry: 1589962501)
+[2020-05-20 16:14:48] [Client thread DEBUG] Loading type:SKIN
